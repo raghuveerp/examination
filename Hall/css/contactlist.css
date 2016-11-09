@@ -1,0 +1,44 @@
+
+body {
+	font:12px "Calibri","Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#000;
+	min-width:1000px;
+	background:#fff;
+	height:100%;
+}
+
+table {
+	color:#333333;
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+}
+table th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #dedede;
+}
+table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #666666;
+	background-color: #ffffff;
+}
+
+.center {
+	float: left ; 
+	width: 30%
+}
+
+.left {
+	float: left; 
+	width: 30%
+}
+
+.right {
+	float: right; 
+	width: 40%	
+}
